@@ -2,4 +2,4 @@
 My Bio
 
 
-This is a short Bio about.
+This is a short Bio about me.
